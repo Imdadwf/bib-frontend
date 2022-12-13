@@ -4,7 +4,7 @@
 
 
 ``` 
-git clone https://github.com/imdadwf/bib-frontend.git 
+git clone https://github.com/Imdadwf/bib-frontend.git 
 ```
 
 * 2 - Ce déplacer dans le projet avec le terminal
