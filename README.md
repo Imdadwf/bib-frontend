@@ -20,7 +20,7 @@
 
 ``` npm run dev ```
 
-* 5 - Ce rendre sur l'adresse donner par le terminer 
+* 5 - Ce rendre sur l'adresse donner par le terminal 
 
 
 ``` http://localhost:5000 (dans mon cas pas forcément identique pour vous) ```
